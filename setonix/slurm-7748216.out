@@ -1,0 +1,12 @@
+/software/projects/interns202319/arice/setonix/python/lib/python3.10/site-packages/MDAnalysis/topology/guessers.py:146: UserWarning: Failed to guess the mass for the following atom types: LI
+  warnings.warn("Failed to guess the mass for the following atom types: {}".format(atom_type))
+/software/projects/interns202319/arice/setonix/python/lib/python3.10/site-packages/MDAnalysis/coordinates/LAMMPS.py:598: UserWarning: Reader has no dt information, set to 1.0 ps
+  ts.data['time'] = step_num * ts.dt
+/software/projects/interns202319/arice/setonix/python/lib/python3.10/site-packages/MDAnalysis/coordinates/LAMMPS.py:598: UserWarning: Reader has no dt information, set to 1.0 ps
+  ts.data['time'] = step_num * ts.dt
+/software/projects/interns202319/arice/setonix/python/lib/python3.10/site-packages/MDAnalysis/coordinates/LAMMPS.py:598: UserWarning: Reader has no dt information, set to 1.0 ps
+  ts.data['time'] = step_num * ts.dt
+/scratch/interns202319/arice/25K-inc/sol-375K.py:28: UserWarning: Reader has no dt information, set to 1.0 ps
+  pickle.dump(data_dump, file_dump)
+{'CL': 0.11506708333333333, 'O': 4.320295}
+{'LI': 0.11506708333333333, 'O': 8.44180375}

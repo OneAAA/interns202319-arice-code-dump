@@ -1,0 +1,9 @@
+Spaced2Adjusted*.gro is an editted GROMACS topology I used to set up MDAnalysis Universes for RDF and coordination number plotting.
+diffusion_comparison.ipynb is an OLD file used to plot coarse grained diffusion model RDFs against coarse grained NequIP LAMMPS RDFs. Newer code is in big_from_setonix/rdf_plotter.ipynb
+notebook.ipynb is a file I used on Google Colab while I was getting a handle on everything, can run NequIP builds, LAMMPS runs, but pretty outdated and patchy. All scripts that ran on Setonix are in the setonix/ folder.
+saving_all_lammps_out.ipynb is another old script that saves MDAnalysis RDF runs, which is no longer helpful as all newer runs were done on setonix.
+
+variances/ is a collection of data sent from Liam Harcombe, containing diffusion model RDF plots over a range of variances.
+diffusion_comparison/ also contains data semt from Liam, with no real files or data that is not located elsewhere. Do not use, it is so messy.
+big_from_setonix/ is the main folder of this project, containing some RDF data from longer runs on Setonix, plotter notebook rdf_plotter.ipynb, and a bunch of graphs.
+setonix/ is the second main folder of this project, containing all scripts from Setonix. Most of it is copy pasting files with minor differences, but still work looking through if you want an idea of how the project was done.

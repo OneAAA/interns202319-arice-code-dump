@@ -1,0 +1,7 @@
+/software/projects/interns202319/arice/setonix/python/lib/python3.10/site-packages/MDAnalysis/topology/LAMMPSParser.py:632: UserWarning: Guessed all Masses to 1.0
+  warnings.warn('Guessed all Masses to 1.0')
+/software/projects/interns202319/arice/setonix/python/lib/python3.10/site-packages/MDAnalysis/coordinates/LAMMPS.py:598: UserWarning: Reader has no dt information, set to 1.0 ps
+  ts.data['time'] = step_num * ts.dt
+srun: Job step aborted: Waiting up to 32 seconds for job step to finish.
+slurmstepd: error: *** STEP 7656350.0 ON nid002794 CANCELLED AT 2024-01-28T14:51:03 ***
+slurmstepd: error: *** JOB 7656350 ON nid002794 CANCELLED AT 2024-01-28T14:51:03 ***

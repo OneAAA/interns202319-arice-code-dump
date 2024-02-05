@@ -1,0 +1,3 @@
+NEQUIP is using device cuda
+Loading model from licl-deployted.pth
+Freezing TorchScript model...

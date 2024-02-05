@@ -1,0 +1,9 @@
+/software/projects/interns202319/arice/setonix/python/lib/python3.10/site-packages/MDAnalysis/topology/guessers.py:146: UserWarning: Failed to guess the mass for the following atom types: LI
+  warnings.warn("Failed to guess the mass for the following atom types: {}".format(atom_type))
+/software/projects/interns202319/arice/setonix/python/lib/python3.10/site-packages/MDAnalysis/coordinates/LAMMPS.py:598: UserWarning: Reader has no dt information, set to 1.0 ps
+  ts.data['time'] = step_num * ts.dt
+/software/projects/interns202319/arice/setonix/python/lib/python3.10/site-packages/MDAnalysis/coordinates/LAMMPS.py:598: UserWarning: Reader has no dt information, set to 1.0 ps
+  ts.data['time'] = step_num * ts.dt
+srun: Job step aborted: Waiting up to 32 seconds for job step to finish.
+slurmstepd: error: *** STEP 7672485.0 ON nid002540 CANCELLED AT 2024-01-29T10:54:16 ***
+slurmstepd: error: *** JOB 7672485 ON nid002540 CANCELLED AT 2024-01-29T10:54:16 ***

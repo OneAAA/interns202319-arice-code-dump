@@ -1,0 +1,9 @@
+/software/projects/interns202319/arice/setonix/python/lib/python3.10/site-packages/MDAnalysis/topology/guessers.py:146: UserWarning: Failed to guess the mass for the following atom types: LI
+  warnings.warn("Failed to guess the mass for the following atom types: {}".format(atom_type))
+/software/projects/interns202319/arice/setonix/python/lib/python3.10/site-packages/MDAnalysis/coordinates/LAMMPS.py:598: UserWarning: Reader has no dt information, set to 1.0 ps
+  ts.data['time'] = step_num * ts.dt
+/software/projects/interns202319/arice/setonix/python/lib/python3.10/site-packages/MDAnalysis/coordinates/LAMMPS.py:598: UserWarning: Reader has no dt information, set to 1.0 ps
+  ts.data['time'] = step_num * ts.dt
+slurmstepd: error: Detected 1 oom-kill event(s) in StepId=7741624.0. Some of your processes may have been killed by the cgroup out-of-memory handler.
+srun: error: nid001557: task 0: Out Of Memory
+srun: launch/slurm: _step_signal: Terminating StepId=7741624.0

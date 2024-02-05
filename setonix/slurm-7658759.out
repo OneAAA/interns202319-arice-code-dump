@@ -1,0 +1,21 @@
+/software/projects/interns202319/arice/setonix/python/lib/python3.10/site-packages/MDAnalysis/topology/LAMMPSParser.py:632: UserWarning: Guessed all Masses to 1.0
+  warnings.warn('Guessed all Masses to 1.0')
+/software/projects/interns202319/arice/setonix/python/lib/python3.10/site-packages/MDAnalysis/coordinates/LAMMPS.py:598: UserWarning: Reader has no dt information, set to 1.0 ps
+  ts.data['time'] = step_num * ts.dt
+Building Universe
+Selecting Lis
+Selecting Cls
+Selecting Os
+Setting up rdfs
+Setting LiLi
+Setting LiCl
+Setting ClCl
+Setting LiO
+Setting ClO
+Running LiLi
+Running LiCl
+Running ClCl
+Running LiO
+Running ClO
+Saving data
+Process complete
